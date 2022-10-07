@@ -122,7 +122,7 @@ button:hover {
 
   .card-preview {
     width: 35%;
-    height: 60%;
+    height: 58%;
     display: flex;
     align-items: center;
   }
@@ -134,6 +134,10 @@ button:hover {
     width: 50%;
     height: 100%;
     border-radius: 10px 0px 0px 10px;
+  }
+
+  .card-preview-content .category {
+    /* margin-top: -50px; */
   }
 
   .card-preview-content {
